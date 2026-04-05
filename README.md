@@ -1,4 +1,4 @@
-# CodeAlpha-case-study-
+# CodeAlpha-case-study
 
 # Bridging the Skills Gap: Evaluating the Impact of a CodeAlpha Internship on Student Employability
 
